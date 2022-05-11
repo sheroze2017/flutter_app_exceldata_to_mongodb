@@ -1,6 +1,12 @@
 # ubitbackend
 
-A new Flutter project.
+project for storing data of student into database the user have to copy the data from excel and paste to the search box 
+then it will transfer all the data into mongodb
+note: the excel data must be paste in exact manner because it uses the tab spacing
+
+![backendui](https://user-images.githubusercontent.com/64411315/167907355-7282f5af-d646-4303-a72c-f77ef1f15e2d.PNG)
+
+
 
 ## Getting Started
 
